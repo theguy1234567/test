@@ -1,5 +1,3 @@
 # test
 
-my first git tutorial.
-
-This is a line added by a collaborator.
+this new read me in the test branch.
