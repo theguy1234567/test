@@ -1,9 +1,7 @@
 def password_checker(username,password):
  
     if(len(password)<8):
-        
         return "weak:password should have more than 8 characters"
-        
         
     elif not any(letter.isupper() for letter in password):
         
